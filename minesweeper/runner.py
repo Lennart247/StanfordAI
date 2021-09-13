@@ -2,8 +2,7 @@ import pygame
 import sys
 import time
 
-from minesweeper import Minesweeper, MinesweeperAI
-
+from minesweeper import Minesweeper, MinesweeperAI # ist korrekt geschrieben, PyCharm mag das aber irgendwie nicht.
 HEIGHT = 10
 WIDTH = 10
 MINES = 15
